@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Welcome to ALC 4.0</string>
+    <string name="button_1">ABOUT ALC</string>
+    <string name="button_2">MY PROFILE</string>
+    <string name="title_activity_about_alc">About ALC</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="username">Joseph Afriyie Attakorah</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Ghana</string>
+    <string name="email">Email: juxluvjoe@gmial.com</string>
+    <string name="phone_number">Phone Number: +233209131079</string>
+    <string name="slack_username">Slack Username: @Joseph</string>
+    <string name="todo">TODO</string>
+</resources>
